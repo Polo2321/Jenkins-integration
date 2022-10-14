@@ -10,7 +10,4 @@ spec:
     - ReadWriteOnce
   resources:
     requests:
-      storage: 2Gi  
-
-
-        checking revert
+      storage: 2Gi
